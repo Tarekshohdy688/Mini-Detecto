@@ -1,17 +1,19 @@
 # **Mini-Detecto**
 
 You can find:
-Notebook including all models and success rate comparison.
-Two fruits testing videos.
-Servo arduino code.
-Ros1 publisher node.
+1. Notebook including all models and success rate comparison.
+2. Two fruits testing videos.
+3. Servo arduino code.
+4. Ros1 publisher node.
+
 In fruits folder here: [Fruits Foler](https://drive.google.com/drive/folders/1w-EiEk41VNLbixKq9Yvn83Vhl8y8OTyG?usp=drive_link)
 you can find:
-The training and testing datasets of Banana and Orange which can you can generate by running the first cell in the Notebook.
-The .h5 whole model architecture of ANN.
-The .h5 whole model architecture of CNN.
-The .h5 whole model architecture of ResNet50 transfer learning.
-Live webcam evaluating data.
+
+1. The training and testing datasets of Banana and Orange which can you can generate by running the first cell in the Notebook.
+2. The .h5 whole model architecture of ANN.
+3. The .h5 whole model architecture of CNN.
+4. The .h5 whole model architecture of ResNet50 transfer learning.
+5. Live webcam evaluating data.
 
 -----------------
 
