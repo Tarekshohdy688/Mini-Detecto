@@ -1,5 +1,5 @@
 # **Mini-Detecto**
-<img src="Mini_Detecto.png" alt="minidetecto X4" width="400" align="right" caption="Mini-Detecto"/>
+<img src="Mini_Detecto.png" alt="minidetecto X4" width="450" align="right" caption="Mini-Detecto"/>
 This is a robot AI Individual course project based. I wrote a python script for it to classify between fruits classes like: Orange vs Banana. Using ANN (Artificial Neural Network), CNN (Convloutional Neural Network), and ResNet50 transfer learning. So, based on 10 frames the robot takes, it can decide which is which and point to the correct decision.
 
 You can find:
