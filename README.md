@@ -1,6 +1,9 @@
 # **Mini-Detecto**
 <img src="Mini_Detecto.png" alt="minidetecto X4" width="450" align="right" caption="Mini-Detecto"/>
-This is a robot AI Individual course project based. I wrote a python script for it to classify between fruits classes like: Orange vs Banana. Using ANN (Artificial Neural Network), CNN (Convloutional Neural Network), and ResNet50 transfer learning. So, based on 10 frames the robot takes, it can decide which is which and point to the correct decision.
+This is a robot AI Individual course project based. I wrote a python script for it to classify between fruits classes like: Orange vs Banana. Using ANN (Artificial Neural Network), CNN (Convloutional Neural Network), and ResNet50 transfer learning. So, based on 10 frames the robot takes, it can decide which is which and point to the correct decision. Reaching success rate of:
+1. 75% for ANN
+2. 85% for CNN
+3. 100% for ResNet50 transfer learning
 
 You can find:
 1. Notebook including all models and success rate comparison.
