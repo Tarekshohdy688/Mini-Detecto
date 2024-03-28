@@ -7,6 +7,7 @@ You can find:
 2. Two fruits testing videos.
 3. Servo arduino code.
 4. Ros1 publisher node.
+5. Two fruits main video to extract datasets.
 
 In fruits folder here: [Fruits Foler](https://drive.google.com/drive/folders/1w-EiEk41VNLbixKq9Yvn83Vhl8y8OTyG?usp=drive_link)
 you can find:
